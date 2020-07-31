@@ -1,2 +1,4 @@
-# ariadne
-Tetris solver
+# Ariadne
+
+![Tetris pieces variation](assets/pieces.png) 
+
